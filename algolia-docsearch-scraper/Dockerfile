@@ -1,0 +1,1 @@
+FROM algolia/docsearch-scraper:v1.16.0
